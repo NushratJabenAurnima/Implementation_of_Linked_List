@@ -1,3 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
+ */
+package basicjava.electricity_billing_system;
+import java.util.Date;
+import javax.swing.*;
+
+/**
+ *
+ * @author Hp
+ */
+
 #include<stdio.h>
 struct node{
   int val;
