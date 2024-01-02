@@ -3,35 +3,36 @@ A series of data structures joined by links is called a linked list. A linked li
 
 # The system allows the following features:
 **. User Input**
-. Insert data (First position, Last Position, Random)
 
-. Display the with design
+**. Insert data (First position, Last Position, Random)**
 
-. Deleting data (First position, Last Position, Random)
-  without memory waste
+**. Display the with design**
+
+**. Deleting data (First position, Last Position, Random)
+  without memory waste**
   
-. Deleting duplicate data
+**. Deleting duplicate data**
 
-. Revesing data using Linked List
+**. Revesing data using Linked List**
 
   # The system comtains the following functions:
-  . create()
+  **. create()**
   
-  . beginning()
+  **. beginning()**
   
-  . insert_random()
+  **. insert_random()**
   
-  . delete_last()
+  **. delete_last()**
   
-  . delete_first()
+  **. delete_first()**
   
-  . delete_random()
+  **. delete_random()**
   
-  . print()
+  **. print()**
   
-  . updated()
+  **. updated()**
   
-  . reverse()
+  **. reverse()**
   
-  . duplicate()
+  **. duplicate()**
   
