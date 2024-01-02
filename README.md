@@ -3,6 +3,7 @@ A series of data structures joined by links is called a linked list. A linked li
 
 # The system allows the following features:
 . User Input
+
 . Insert data (First position, Last Position, Random)
 . Display the with design
 . Deleting data (First position, Last Position, Random)
