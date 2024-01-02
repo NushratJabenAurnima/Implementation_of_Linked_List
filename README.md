@@ -5,21 +5,34 @@ A series of data structures joined by links is called a linked list. A linked li
 . User Input
 
 . Insert data (First position, Last Position, Random)
+
 . Display the with design
+
 . Deleting data (First position, Last Position, Random)
   without memory waste
+  
 . Deleting duplicate data
+
 . Revesing data using Linked List
 
   # The system comtains the following functions:
   . create()
+  
   . beginning()
+  
   . insert_random()
+  
   . delete_last()
+  
   . delete_first()
+  
   . delete_random()
+  
   . print()
+  
   . updated()
+  
   . reverse()
+  
   . duplicate()
   
