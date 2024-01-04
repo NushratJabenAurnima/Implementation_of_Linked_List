@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author Hp
- */
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Project Done by &copy; Nushrat Jaben Aurnima. All Rights Reserved .</h2>
+</body>
+</html>
 
 #include<stdio.h>
 struct node{
